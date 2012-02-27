@@ -1,3 +1,5 @@
+#encoding=utf-8
+
 module Clickatell
   # This module provides the core implementation of the Clickatell
   # HTTP service.
